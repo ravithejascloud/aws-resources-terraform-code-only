@@ -1,0 +1,6 @@
+region        = "us-east-1"
+ami           = "ami-02e0bb36c61bb9715"
+instance_type = "t2.micro"
+key           = "EC2-KEY-NVIRGINIA"
+test-natgw1-name = "NATGW1"
+test-natgw2-name = "NATGW2"
